@@ -121,7 +121,7 @@ export const Letrero4 = styled.div`
 export const Letra = styled.div`
   font-family: Montserrat;
   font-weight: bold;
-  font-size: 19px;
+  font-size: 17px;
   line-height: 19px;
   color: #FFFFFF;
   width: 90%;
